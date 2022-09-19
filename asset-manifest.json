@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TIGUM/static/css/main.d7da34c1.css",
+    "main.js": "/TIGUM/static/js/main.792eb756.js",
+    "static/media/video1.mp4": "/TIGUM/static/media/video1.41cab17992ea17b006f5.mp4",
+    "static/media/ftbg.jpg": "/TIGUM/static/media/ftbg.e41b2dc3ef181682941d.jpg",
+    "static/media/logo40.png": "/TIGUM/static/media/logo40.453a8a079d59ccfa3b0b.png",
+    "static/media/logosicontec.png": "/TIGUM/static/media/logosicontec.4648ccb8ad6ffdeb9e3a.png",
+    "static/media/medicine.svg": "/TIGUM/static/media/medicine.0bc58d0e99b0ab845981eb41d448dde3.svg",
+    "static/media/checklist.png": "/TIGUM/static/media/checklist.193d71ae2772d657206e.png",
+    "static/media/logoUMNG.png": "/TIGUM/static/media/logoUMNG.2b9e6bfc5872e7307bc8.png",
+    "static/media/team.svg": "/TIGUM/static/media/team.6836894854f3b4d1765c60b503e8b2ee.svg",
+    "static/media/data2.svg": "/TIGUM/static/media/data2.53127a1f4bddc5bb1f720d264124bf99.svg",
+    "static/media/personal.svg": "/TIGUM/static/media/personal.bd07e3cc4b6a9ebb571de7edd46d7047.svg",
+    "static/media/data1.svg": "/TIGUM/static/media/data1.cc2e7594d48e49b33ddf9f6486dd4ab8.svg",
+    "static/media/iot.svg": "/TIGUM/static/media/iot.d09fc9a2bd28e3c8152bf07b670c5cb3.svg",
+    "index.html": "/TIGUM/index.html",
+    "main.d7da34c1.css.map": "/TIGUM/static/css/main.d7da34c1.css.map",
+    "main.792eb756.js.map": "/TIGUM/static/js/main.792eb756.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da34c1.css",
+    "static/js/main.792eb756.js"
+  ]
+}
