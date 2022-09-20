@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TIGUM/static/css/main.d7da34c1.css",
-    "main.js": "/TIGUM/static/js/main.792eb756.js",
+    "main.js": "/TIGUM/static/js/main.dc73ab93.js",
     "static/media/video1.mp4": "/TIGUM/static/media/video1.41cab17992ea17b006f5.mp4",
     "static/media/ftbg.jpg": "/TIGUM/static/media/ftbg.e41b2dc3ef181682941d.jpg",
     "static/media/logo40.png": "/TIGUM/static/media/logo40.453a8a079d59ccfa3b0b.png",
@@ -16,10 +16,10 @@
     "static/media/iot.svg": "/TIGUM/static/media/iot.d09fc9a2bd28e3c8152bf07b670c5cb3.svg",
     "index.html": "/TIGUM/index.html",
     "main.d7da34c1.css.map": "/TIGUM/static/css/main.d7da34c1.css.map",
-    "main.792eb756.js.map": "/TIGUM/static/js/main.792eb756.js.map"
+    "main.dc73ab93.js.map": "/TIGUM/static/js/main.dc73ab93.js.map"
   },
   "entrypoints": [
     "static/css/main.d7da34c1.css",
-    "static/js/main.792eb756.js"
+    "static/js/main.dc73ab93.js"
   ]
 }
