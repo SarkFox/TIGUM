@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TIGUM/static/css/main.c02a0f94.css",
-    "main.js": "/TIGUM/static/js/main.13232021.js",
+    "main.css": "/TIGUM/static/css/main.8982bdae.css",
+    "main.js": "/TIGUM/static/js/main.e89cbac3.js",
     "static/media/video1.mp4": "/TIGUM/static/media/video1.41cab17992ea17b006f5.mp4",
     "static/media/bg6.png": "/TIGUM/static/media/bg6.e0f257c55be6d2914e0e.png",
     "static/media/cr1.jpg": "/TIGUM/static/media/cr1.8d1e05651d9be1ed9ec4.jpg",
@@ -40,11 +40,11 @@
     "static/media/maleavy.svg": "/TIGUM/static/media/maleavy.f1da565c1c8f59c0147b99653646d712.svg",
     "static/media/iot.svg": "/TIGUM/static/media/iot.d09fc9a2bd28e3c8152bf07b670c5cb3.svg",
     "index.html": "/TIGUM/index.html",
-    "main.c02a0f94.css.map": "/TIGUM/static/css/main.c02a0f94.css.map",
-    "main.13232021.js.map": "/TIGUM/static/js/main.13232021.js.map"
+    "main.8982bdae.css.map": "/TIGUM/static/css/main.8982bdae.css.map",
+    "main.e89cbac3.js.map": "/TIGUM/static/js/main.e89cbac3.js.map"
   },
   "entrypoints": [
-    "static/css/main.c02a0f94.css",
-    "static/js/main.13232021.js"
+    "static/css/main.8982bdae.css",
+    "static/js/main.e89cbac3.js"
   ]
 }
